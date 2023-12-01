@@ -1,0 +1,7 @@
+{
+  "name": "grade_manager",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular-standalone"
+}
